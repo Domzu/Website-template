@@ -11,7 +11,4 @@ This is a website template designed specifically for students who want to showca
 - Social media links that navigates you to a different browser
 - Made with pure HTML and CSS making it easy to customize
 
-## License
-This template is released under the MIT License. You are free to use, modify, and distribute the template for both personal and commercial use
-
 ![image](https://user-images.githubusercontent.com/114202252/222900663-0cc3ede8-fa8b-40ec-ba37-a2b6626950a5.png)
